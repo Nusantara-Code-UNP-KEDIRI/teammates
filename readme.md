@@ -8,4 +8,11 @@
 - Rika Wahyu Syahputri
 - Fernanda Ma'rouf | Akiekano
 
-> 
+> Nusantara-Code Paradewa
+- Erwin Setyawan
+- Martinus
+- Awroni
+- Nasrul
+- Tomi Setyawan
+
+>
