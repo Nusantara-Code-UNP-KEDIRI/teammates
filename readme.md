@@ -1,7 +1,9 @@
-> Your team name
-- membername1
-- membername2
-- membername3
+> Nusantara-Code nggacle
+- Arfyanda Dela Shefira
+- Arie Rahma Nurjannah 
+- Ahmad Khoirudin Affandi
+- Revan Fajar Diwangkara
+- Moh.Farhan Nashiruddin
 
 > Nusantara-Code Skylar
 - Farid Wijaya
@@ -15,4 +17,4 @@
 - Nasrul
 - Tomi Setyawan
 
->
+
